@@ -31,8 +31,8 @@ WindowBackground="Background",
 WindowShadow="Black",
 
 
-WindowTopbarTitle="Text",
-WindowTopbarAuthor="Text",
+WindowTopbarTitle="Naufal",
+WindowTopbarAuthor="Naufal",
 WindowTopbarIcon="Icon",
 WindowTopbarButtonIcon="Icon",
 
